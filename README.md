@@ -6,6 +6,8 @@
 
 Creeklytics Stormwater Station is a solar-powered stream water-level monitoring station developed by the City of Henderson Engineering Department.
 
+[<img width="193" height="20" alt="image" src="https://github.com/user-attachments/assets/97487653-c45c-4b0c-9b93-5f23187b7820" />](https://doi.org/10.5281/zenodo.24163688)
+
 ## Design files
 
 | Folder | Files | Purpose |
@@ -59,3 +61,5 @@ The two brackets secure the PVC probe housing to the mounting surface. The cap h
 
 [![Firmware License: MIT](https://img.shields.io/badge/Firmware%20License-MIT-yellow.svg)](https://opensource.org/license/MIT)
 [![Hardware License: CERN-OHL-S-2.0](https://img.shields.io/badge/Hardware%20License-CERN--OHL--S--2.0-blue.svg)](https://spdx.github.io/license-list-data/CERN-OHL-S-2.0.html)
+
+
