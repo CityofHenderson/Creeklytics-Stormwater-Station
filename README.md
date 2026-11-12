@@ -1,7 +1,7 @@
 # Creeklytics Stormwater Station
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/CityofHenderson/Creeklytics-Stormwater-Station/refs/heads/main/resources/Stream%20Monitoring%20Station%20Sign.png" width="50%">
+<img src="https://github.com/CityofHenderson/Creeklytics-Stormwater-Station/blob/main/resources/Stream%20Monitoring%20Station%20Sign.png?raw=true" width="50%">
 </p>
 
 Creeklytics Stormwater Station is a solar-powered stream water-level monitoring station developed by the City of Henderson Engineering Department.
@@ -19,7 +19,7 @@ Creeklytics Stormwater Station is a solar-powered stream water-level monitoring 
 A submersible 4–20 mA pressure transducer measures water depth. A SEN0262 current-to-voltage converter feeds the transducer signal to an analog input on the Arduino MKR NB 1500. A solar panel and 12 V battery supply the station, with separate regulated supplies for the pressure transducer and the Arduino’s 5 V power input. Use the wiring schematic for the connections between modules.
 
 ### Wiring Diagram
-![Wiring Diagram](https://raw.githubusercontent.com/CityofHenderson/Creeklytics-Stormwater-Station/refs/heads/main/resources/Wiring%20Diagram.png)
+![Wiring Diagram](https://github.com/CityofHenderson/Creeklytics-Stormwater-Station/blob/main/resources/Wiring%20Diagram.png?raw=true)
 
 ## Mechanical design
 
