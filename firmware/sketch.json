@@ -1,0 +1,26 @@
+{
+  "cpu": {
+    "fqbn": "arduino:samd:mkrnb1500",
+    "name": "",
+    "type": "serial"
+  },
+  "secrets": [
+    {
+      "name": "SECRET_OPTIONAL_APN",
+      "value": ""
+    },
+    {
+      "name": "SECRET_OPTIONAL_PASSWORD",
+      "value": ""
+    },
+    {
+      "name": "SECRET_OPTIONAL_PIN",
+      "value": ""
+    },
+    {
+      "name": "SECRET_OPTIONAL_USERNAME",
+      "value": ""
+    }
+  ],
+  "included_libs": []
+}
